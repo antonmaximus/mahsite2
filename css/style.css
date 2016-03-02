@@ -1,0 +1,36 @@
+body {
+	background-color:  #FCFCFC;
+    font-family: "Trebuchet MS", Helvetica, sans-serif; 
+    
+}
+
+
+nav {
+    margin: 0 auto;    
+    width: 300px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;    
+}
+
+nav ul {
+    padding: 0;
+}
+    
+
+nav ul li {
+    list-style: none; 
+    display: inline-block;
+}
+
+article {
+    max-width: 34rem; 
+    margin: 0 auto; 
+}
+
+img.imgFull {
+    width: 100%; 
+}
+
+a {
+    text-decoration: none;
+    color: #3b653d;
+}
